@@ -85,8 +85,8 @@ body {
 	position: absolute;
 	top: 0;
 	right: 0;
-	background: green;
-	color: #fff;
+	background: #fff;
+	color: red;
 	height: 40px;
 	width: 60px;
 	font-size: 16px;
